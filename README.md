@@ -2,7 +2,7 @@
 
 The following is really long (this kind of got away from me). So putting the TL;DR up first.
 
-I suck at data science. I am declaring that I will be a 4X GrandMaster by 20th of June 2025. I am going to use a hybrid bottom up and top down approach to do so. I will commit to doing at least 10 mins of work on this every day. I want you to hold me accountable / give me tons of critical feedback (seriously no need for positive reinforcement).
+I suck at data science. I am declaring that I will be a 4X GrandMaster by 20th of June 2025. I am going to use a hybrid bottom up and top down approach to do so. I will commit to doing at least 10 mins of work on this every day. I want you to hold me accountable / give me tons of critical feedback (seriously no need for positive reinforcement). I will keep the GitHub updated with my journey everyday.
 
 # Introduction
 
