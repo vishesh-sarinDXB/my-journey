@@ -36,7 +36,7 @@ I started to rest on my laurels again. The job was more data engineering / other
 
 I caught myself last year and decided to change. The core issue was not capability to push myself when needed (my time at UCSF, becoming my mothers caretaker, and graduating from Heriot-Watt all proved that I can do that), but maintaining consistency when there was no call to action. 
 
-Where I want to go 
+# Where I want to go 
 
 One of the first things that I decided to action on (because it had the easiest answers) was my health. I quit drinking completely, I downgraded from smoking cigarettes to vaping (not quite healthy but better than cigarettes), I tried improving my eating habits (this one I am still struggling with), and I started exercising. I was very inconsistent with all of this at the beginning.
 
@@ -50,7 +50,7 @@ To me this is awesome, it means I have room to grow. It means I can learn from m
 
 I declare right now, that one year from now I am going to be a 4X Kaggle Grandmaster. 
 
-How I’m going to get there
+# How I’m going to get there
 
 I personally believe in a hybrid approach. Specifically both a top down and a bottom up approach in terms of what I will be learning. I also want to take my lessons learned from my health journey. I am going to commit to doing a little bit everyday, I am going to try to do so right after my morning routine as it is without a doubt the best part of my day, and I am requesting anyone reading this to keep me accountable. Like I said at the top, tell me all the things I am screwing up on and how I could be doing things better. Nothing too small to point out, all critics welcome!
 
