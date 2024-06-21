@@ -75,3 +75,6 @@ Regarding the atomicity of it all, anything that I can accomplish from the list 
 I will commit to the GitHub repo every day, and if I manage to finish off more than one line item, I will make a separate commit for each, also listing an approximation of how much time I spent on that and when in the day I did it. I will probably start with Khan Academy as it is definitely the low hanging fruit on this list.
 
 Thank you to anyone who didn’t just read the TL;DR and I hope to get a ton of critical feedback from everyone here (especially any Grandmasters that might be lurking).
+
+# Day 1
+10 mins Khan Academy, did factor pairs quiz twice. First I missed a few, second I got them all. In pre algebra
