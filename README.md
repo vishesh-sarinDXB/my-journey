@@ -77,4 +77,5 @@ I will commit to the GitHub repo every day, and if I manage to finish off more t
 Thank you to anyone who didn’t just read the TL;DR and I hope to get a ton of critical feedback from everyone here (especially any Grandmasters that might be lurking).
 
 # Day 1
-10 mins Khan Academy, did factor pairs quiz twice. First I missed a few, second I got them all. In pre algebra
+10 mins Khan Academy around 10 AM, did factor pairs quiz twice. First I missed a few, second I got them all. In pre algebra
+17 mins Responding to Kaggle Forum post around 2:45 PM.
