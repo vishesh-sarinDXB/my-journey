@@ -82,3 +82,5 @@ Thank you to anyone who didn’t just read the TL;DR and I hope to get a ton of 
 
 # Day 2
 10 mins Khan Academy around 10 PM 2 khan academy quizzes
+
+7 mins post on kaggle forums
