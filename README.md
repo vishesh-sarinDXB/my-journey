@@ -89,4 +89,4 @@ Thank you to anyone who didn’t just read the TL;DR and I hope to get a ton of 
 # Day 3
 17 mins khan academy quizzes around 10 am
 
-
+2 mins kaggle forum post around 11 am
