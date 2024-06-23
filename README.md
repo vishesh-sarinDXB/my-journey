@@ -78,9 +78,15 @@ Thank you to anyone who didn’t just read the TL;DR and I hope to get a ton of 
 
 # Day 1
 10 mins Khan Academy around 10 AM, did factor pairs quiz twice. First I missed a few, second I got them all. In pre algebra
+
 17 mins Responding to Kaggle Forum post around 2:45 PM.
 
 # Day 2
-10 mins Khan Academy around 10 PM 2 khan academy quizzes
+10 mins Khan Academy around 10 AM 2 khan academy quizzes
 
 7 mins post on kaggle forums
+
+# Day 3
+17 mins khan academy quizzes around 10 am
+
+
