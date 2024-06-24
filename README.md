@@ -67,3 +67,5 @@ I am not where I want to be when it comes to my technical skills as a data scien
 7 mins to figure out how to submit the actual competition at roughly 250 PM
 
 55 mins rewriting the post to focus on the main points at roungly 8 PM
+
+15 mins replying to kaggle posts around 9PM
