@@ -95,3 +95,5 @@ Thank you to anyone who didn’t just read the TL;DR and I hope to get a ton of 
 10 mins khan academy quiz arnd 230 pm
 
 10 mins forked an ran a notebook to make a submission to titanic comp and become contributor hopefully. I also tried to read and understand the ntoebook. Time 240 pm
+
+7 mins to figure out how to submit the actual competition
