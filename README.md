@@ -90,3 +90,6 @@ Thank you to anyone who didn’t just read the TL;DR and I hope to get a ton of 
 17 mins khan academy quizzes around 10 am
 
 2 mins kaggle forum post around 11 am
+
+# Day 4
+10 mins khan academy quiz arnd 230 pm
