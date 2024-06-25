@@ -73,3 +73,5 @@ I am not where I want to be when it comes to my technical skills as a data scien
 # Day 5
 
 15 mins responding to kaggle post. Spent some time googling about it, poetry as a environment manager. Time around 1230 PM
+
+20 mins repsonding to kaggle post. More googling about poetry as a environment/package manager. Time around 2 PM
