@@ -69,3 +69,7 @@ I am not where I want to be when it comes to my technical skills as a data scien
 55 mins rewriting the post to focus on the main points at roungly 8 PM
 
 15 mins replying to kaggle posts around 9PM
+
+# Day 5
+
+15 mins responding to kaggle post. Spent some time googling about it, poetry as a environment manager. Time around 1230 PM
