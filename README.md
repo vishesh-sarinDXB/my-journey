@@ -83,3 +83,14 @@ I am not where I want to be when it comes to my technical skills as a data scien
 1 min responding to the post I found the paper on on Kaggle forums. Aprrox 1140 AM.
 
 10 mins Khan Academy Quizzes. Approx around 1:10 PM
+
+10 mins reading about scraping fandom wikis around 840 pm
+
+https://realpython.com/python-web-scraping-practical-introduction/
+https://www.reddit.com/r/DataHoarder/comments/wz4p27/scraping_wikis_miraheze_and_fandom/
+https://github.com/JOHW85/ScrapeFandom
+https://www.reddit.com/r/webscraping/comments/xvqd6r/is_there_an_easy_way_to_tell_if_a_website_will/
+https://yoast.com/ultimate-guide-robots-txt/
+https://warframe.fandom.com/robots.txt
+
+not completeley read
