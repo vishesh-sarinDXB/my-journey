@@ -81,3 +81,5 @@ I am not where I want to be when it comes to my technical skills as a data scien
 10 mins reading a paper found on kaggle at approx 11 30 AM. This [paper](https://link.springer.com/epdf/10.1007/s10676-024-09775-5?sharing_token=0CIhP_zo5-plierRq8kkDPe4RwlQNchNByi7wbcMAY77xTOWyddkW01qGFs1m5zuuoZGBctVlsJF8SbYqcxWi-XzgEYEPiw7xwWi4bMYXJ_1JARDrER9JGdWZOW-UGSkrk_tXPjPh-XWvFNoiFzNlnDUUUEBAztiX9PtP2p6jfI%3D). Not finished reading.
 
 1 min responding to the post I found the paper on on Kaggle forums. Aprrox 1140 AM.
+
+10 mins Khan Academy Quizzes. Approx around 1:10 PM
