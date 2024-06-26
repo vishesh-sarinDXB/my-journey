@@ -75,3 +75,7 @@ I am not where I want to be when it comes to my technical skills as a data scien
 15 mins responding to kaggle post. Spent some time googling about it, poetry as a environment manager. Time around 1230 PM
 
 20 mins repsonding to kaggle post. More googling about poetry as a environment/package manager. Time around 2 PM
+
+# Day 6
+
+10 mins reading a paper found on kaggle at approx 11 30 AM. This [paper](https://link.springer.com/epdf/10.1007/s10676-024-09775-5?sharing_token=0CIhP_zo5-plierRq8kkDPe4RwlQNchNByi7wbcMAY77xTOWyddkW01qGFs1m5zuuoZGBctVlsJF8SbYqcxWi-XzgEYEPiw7xwWi4bMYXJ_1JARDrER9JGdWZOW-UGSkrk_tXPjPh-XWvFNoiFzNlnDUUUEBAztiX9PtP2p6jfI%3D). Not finished reading.
