@@ -94,3 +94,7 @@ https://yoast.com/ultimate-guide-robots-txt/
 https://warframe.fandom.com/robots.txt
 
 not completeley read
+
+# Day 7
+
+8 mins responding to Kaggle Forum post, around 1140 AM.
