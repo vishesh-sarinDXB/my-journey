@@ -98,3 +98,7 @@ not completeley read
 # Day 7
 
 8 mins responding to Kaggle Forum post, around 1140 AM.
+
+# Day 8
+
+10 mins ka quizzes 450 pm
