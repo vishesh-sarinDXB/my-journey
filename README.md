@@ -106,3 +106,7 @@ not completeley read
 # Day 9
 
 10 mins ka quizzes 345 pm
+
+5 mins responding to a post / reading a bit about CRISP-DM
+
+https://www.ibm.com/docs/en/spss-modeler/saas?topic=dm-crisp-help-overview
