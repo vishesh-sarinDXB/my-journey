@@ -102,3 +102,7 @@ not completeley read
 # Day 8
 
 10 mins ka quizzes 450 pm
+
+# Day 9
+
+10 mins ka quizzes 345 pm
