@@ -114,3 +114,7 @@ https://www.ibm.com/docs/en/spss-modeler/saas?topic=dm-crisp-help-overview
 # Day 10
 
 30 mins ka quizzes around 11 am
+
+3 mins responding to kaggle post on eda and joining ISIC skin cancer competition around 630PM
+
+https://www.kaggle.com/competitions/isic-2024-challenge
