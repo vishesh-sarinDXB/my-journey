@@ -110,3 +110,7 @@ not completeley read
 5 mins responding to a post / reading a bit about CRISP-DM
 
 https://www.ibm.com/docs/en/spss-modeler/saas?topic=dm-crisp-help-overview
+
+# Day 10
+
+30 mins ka quizzes around 11 am
