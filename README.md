@@ -122,3 +122,5 @@ https://www.kaggle.com/competitions/isic-2024-challenge
 # Day 11
 
 15 mins ka quizzes around 745 am
+
+2 hrs reading isic competition and working on why pAUC notebook around noon
