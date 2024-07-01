@@ -118,3 +118,7 @@ https://www.ibm.com/docs/en/spss-modeler/saas?topic=dm-crisp-help-overview
 3 mins responding to kaggle post on eda and joining ISIC skin cancer competition around 630PM
 
 https://www.kaggle.com/competitions/isic-2024-challenge
+
+# Day 11
+
+15 mins ka quizzes around 745 am
