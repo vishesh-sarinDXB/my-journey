@@ -124,3 +124,5 @@ https://www.kaggle.com/competitions/isic-2024-challenge
 15 mins ka quizzes around 745 am
 
 2 hrs reading isic competition and working on why pAUC notebook around noon
+
+2 mims replying to forum post at 11 pm
