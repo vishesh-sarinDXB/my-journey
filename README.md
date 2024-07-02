@@ -131,3 +131,6 @@ https://www.kaggle.com/competitions/isic-2024-challenge
 
 24 mins ka quizzes 8 pm
 
+2 mins replying to kaggle forum post and checking out notebook
+
+https://www.kaggle.com/code/mohamedyosef101/eda-bank-churn-classification
