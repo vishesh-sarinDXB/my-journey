@@ -1,4 +1,4 @@
-# Introduction
+no# Introduction
 
 Hi everyone!
 
@@ -134,3 +134,7 @@ https://www.kaggle.com/competitions/isic-2024-challenge
 2 mins replying to kaggle forum post and checking out notebook
 
 https://www.kaggle.com/code/mohamedyosef101/eda-bank-churn-classification
+
+# Day 13
+
+1 hr ka quizzes 11 am
