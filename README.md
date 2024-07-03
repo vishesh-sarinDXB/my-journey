@@ -138,3 +138,5 @@ https://www.kaggle.com/code/mohamedyosef101/eda-bank-churn-classification
 # Day 13
 
 1 hr ka quizzes 11 am++ finished 2 full modules
+
+2 mins responding to kaggle forum post
