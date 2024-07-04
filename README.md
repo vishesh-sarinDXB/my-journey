@@ -1,4 +1,4 @@
-no# Introduction
+# Introduction
 
 Hi everyone!
 
@@ -140,3 +140,7 @@ https://www.kaggle.com/code/mohamedyosef101/eda-bank-churn-classification
 1 hr ka quizzes 11 am++ finished 2 full modules
 
 2 mins responding to kaggle forum post
+
+# Day 14
+
+1 hr ka quizzes 10 am 
