@@ -144,3 +144,5 @@ https://www.kaggle.com/code/mohamedyosef101/eda-bank-churn-classification
 # Day 14
 
 1 hr ka quizzes 10 am 
+
+going to eouble down on ka for a while (top down is covered by work)
