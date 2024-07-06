@@ -154,3 +154,7 @@ going to eouble down on ka for a while (top down is covered by work)
 1 hr ka quizzes around 8 am
 
 1 hr ka quizzes around 11 am
+
+# Day 16
+
+20 mins ka quizzes around noon
