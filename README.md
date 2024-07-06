@@ -148,3 +148,7 @@ https://www.kaggle.com/code/mohamedyosef101/eda-bank-churn-classification
 going to eouble down on ka for a while (top down is covered by work)
 
 1 hr ka wuizzes 6 pm
+
+# DAY 15
+
+1 hr ka quizzes around 8 am
