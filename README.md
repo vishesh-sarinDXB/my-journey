@@ -152,3 +152,5 @@ going to eouble down on ka for a while (top down is covered by work)
 # DAY 15
 
 1 hr ka quizzes around 8 am
+
+1 hr ka quizzes around 11 am
