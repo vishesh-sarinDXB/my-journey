@@ -166,3 +166,5 @@ going to eouble down on ka for a while (top down is covered by work)
 # Day 18
 
 10 mins ka quizzes around 11 am
+
+10 mins ka quizzes around 12pm
