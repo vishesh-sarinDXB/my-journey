@@ -172,3 +172,7 @@ going to eouble down on ka for a while (top down is covered by work)
 10 mims ka quizzes around 2 pm
 
 2 hr ka quizzes around 6 pm
+
+2 hr ka quizzes around 9 pm
+
+new internal target to finish pre algebra course challenge on 14th of july or earlier
