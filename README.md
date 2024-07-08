@@ -168,3 +168,5 @@ going to eouble down on ka for a while (top down is covered by work)
 10 mins ka quizzes around 11 am
 
 10 mins ka quizzes around 12pm
+
+10 mims ka quizzes around 2 pm
