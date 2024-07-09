@@ -176,3 +176,7 @@ going to eouble down on ka for a while (top down is covered by work)
 2 hr ka quizzes around 9 pm
 
 new internal target to finish pre algebra course challenge on 14th of july or earlier
+
+# Day 19
+
+10 mins ka quizzes around 630 pm and one more in the afternoon
