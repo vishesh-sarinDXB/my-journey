@@ -192,3 +192,8 @@ new internal target to finish pre algebra course challenge on 14th of july or ea
 # Day 22
 
 1 hr ka quizzes++
+
+# Day 23
+
+4 hrs ka quizzes but mildly distracted started around 1pm
+
