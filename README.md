@@ -204,3 +204,19 @@ new internal target to finish pre algebra course challenge on 14th of july or ea
 5 hrs kinda distracted ka around 8 pm
 
 finished course challenge at approx 1240am (technically day 25, aka past 14th july deadline but still same waking day)
+
+# Day 25
+
+not done anything yet, but writing here commitment to kaggle for day 30
+
+specifically make dataset from data so far in this repo
+
+make notebook from thsi data set with basic bar charts analysis
+
+make update post for day 30
+
+make notebook for generic visualizations personal cheat sheet seaborn
+
+make 1 post in general for discussions from a blog post from one of my substacks
+
+(optional) make baseline submission for isic competition
