@@ -222,3 +222,5 @@ make 1 post in general for discussions from a blog post from one of my substacks
 (optional) make baseline submission for isic competition
 
 (optional) export health data from apple health to dataset and make notebook
+
+2 hes ka quizzes around 630pm 
