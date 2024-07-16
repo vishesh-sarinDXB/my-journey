@@ -224,3 +224,11 @@ make 1 post in general for discussions from a blog post from one of my substacks
 (optional) export health data from apple health to dataset and make notebook
 
 2 hes ka quizzes around 630pm 
+
+# Day 26
+
+ka quizzes for 30 mins at 7:40 am
+
+ka quizzes for 50 mins at 11 am
+
+ka quizzes for 1 hr at 722 pm
