@@ -237,3 +237,5 @@ ka quizzes for 1 hr at 722 pm
 
 https://arxiv.org/abs/2405.15793
 https://open.substack.com/pub/artificialintelligencemadesimple/p/aci-has-been-achieved-internally?r=2f47o8&utm_medium=ios
+
+spent 30 mins reading article above (not finished) around 7 am
