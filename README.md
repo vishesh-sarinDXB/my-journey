@@ -232,3 +232,8 @@ ka quizzes for 30 mins at 7:40 am
 ka quizzes for 50 mins at 11 am
 
 ka quizzes for 1 hr at 722 pm
+
+# Day 27
+
+https://arxiv.org/abs/2405.15793
+https://open.substack.com/pub/artificialintelligencemadesimple/p/aci-has-been-achieved-internally?r=2f47o8&utm_medium=ios
