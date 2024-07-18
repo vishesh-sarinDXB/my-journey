@@ -241,3 +241,7 @@ https://open.substack.com/pub/artificialintelligencemadesimple/p/aci-has-been-ac
 spent 30 mins reading article above (not finished) around 7 am
 
 5 minska quizzes around 8 pm
+
+# Day 28
+
+50 mins ka quizzes 1110 am
