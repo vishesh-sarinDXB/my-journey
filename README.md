@@ -245,3 +245,8 @@ spent 30 mins reading article above (not finished) around 7 am
 # Day 28
 
 50 mins ka quizzes 1110 am
+
+# Day 29
+
+10 mins ka quizzes 1220 pm
+
