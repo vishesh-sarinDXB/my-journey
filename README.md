@@ -250,4 +250,4 @@ spent 30 mins reading article above (not finished) around 7 am
 
 10 mins ka quizzes 1220 pm
 
-x mins ka quizzes 1240 pm
+1h 40 mins ka quizzes 1240 pm
