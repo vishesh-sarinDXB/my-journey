@@ -251,3 +251,7 @@ spent 30 mins reading article above (not finished) around 7 am
 10 mins ka quizzes 1220 pm
 
 1h 40 mins ka quizzes 1240 pm
+
+# Day 30
+
+9am turn this repo into a dataset 1h50mins
