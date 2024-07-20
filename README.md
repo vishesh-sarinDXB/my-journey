@@ -259,3 +259,5 @@ spent 30 mins reading article above (not finished) around 7 am
 11 am added dataset to this repo 6 mins (initially did csv, but would mess up because of commas in url column, so pushed as xslx)
 
 11:06 am created new dataset in kaggle 4 mins
+
+12 pm kq quizzes 24 mins
