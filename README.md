@@ -263,3 +263,5 @@ spent 30 mins reading article above (not finished) around 7 am
 12 pm kq quizzes 24 mins
 
 1pm kaggle notebook for day 30 update 1h20 mins
+
+240 pm ka quizzes 30 mins
