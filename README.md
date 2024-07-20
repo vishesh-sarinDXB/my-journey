@@ -271,3 +271,5 @@ spent 30 mins reading article above (not finished) around 7 am
 415 pm kaggle notebook for day 30 update 30 mins (finished)
 
 https://www.kaggle.com/code/visheshsarin/4x-path-day-30-update-notebook/
+
+445 pm day 30 update post 30 mins
