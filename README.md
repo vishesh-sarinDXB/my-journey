@@ -274,6 +274,8 @@ spent 30 mins reading article above (not finished) around 7 am
 
 545 pm day 30 update post 40mins (reposted below)
 
+625 am 30 mins finished reading article from day 27
+
 ## 4X Path Day 30 Update (Feedback requested)
 
 I wrote a [post a month ago](https://www.kaggle.com/discussions/general/514564) about how I felt like I wasn’t where I wanted to be in terms of my technical skills and outlined how I was hoping to address the problem. It has been a month since and I thought I would write an update post.
