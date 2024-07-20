@@ -274,7 +274,11 @@ spent 30 mins reading article above (not finished) around 7 am
 
 545 pm day 30 update post 40mins (reposted below)
 
-625 am 30 mins finished reading article from day 27
+625 pm 30 mins finished reading article from day 27
+
+655 pm 25 mins make post about article
+
+https://www.kaggle.com/discussions/general/521402
 
 ## 4X Path Day 30 Update (Feedback requested)
 
