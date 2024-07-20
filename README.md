@@ -260,7 +260,7 @@ spent 30 mins reading article above (not finished) around 7 am
 
 11:06 am created new dataset in kaggle 4 mins
 
-12 pm kq quizzes 24 mins
+12 pm ka quizzes 24 mins
 
 1pm kaggle notebook for day 30 update 1h20 mins
 
@@ -270,6 +270,26 @@ spent 30 mins reading article above (not finished) around 7 am
 
 415 pm kaggle notebook for day 30 update 30 mins (finished)
 
-https://www.kaggle.com/code/visheshsarin/4x-path-day-30-update-notebook/
-
 445 pm day 30 update post 30 mins
+
+545 pm day 30 update post 40mins (reposted below)
+
+## 4X Path Day 30 Update (Feedback requested)
+
+I wrote a [post a month ago](https://www.kaggle.com/discussions/general/514564) about how I felt like I wasn’t where I wanted to be in terms of my technical skills and outlined how I was hoping to address the problem. It has been a month since and I thought I would write an update post.
+
+As outlined in that post I wrote that I would update the [GitHub](https://github.com/vishesh-sarinDXB/my-journey) with my progress daily which I have. Today I took the liberty to convert the data in the repo into a dataset (uploaded on [kaggle](https://www.kaggle.com/datasets/visheshsarin/4x-path-day-30-update) and on the repo). Furthermore I created a [notebook](https://www.kaggle.com/code/visheshsarin/4x-path-day-30-update-notebook) to do some very basic analysis. I would love your feedback on the notebook and the dataset created.
+
+First I looked at the number of hours worked on average per day and further broke that down into average hours worked per day on weekends and weekdays. Unsurprisingly, I worked more on the weekends (1.75 hours), though seemingly not by much (about a half hour more). I plotted the number of days against the number of hours worked as well to see if there was a positive trend in the number of hours worked and indeed there was, with 4 peaks that seemingly coincide with the weekends (though I didn’t overlay the weekends on to the plot itself as my visualization skills have atrophied somewhat and hence I just relied on pandas to plot directly rather than using matplotlib, seaborn, or plotly). Most hearteningly each peak was larger than the previous with the greatest at 8 hours last Sunday. 
+
+Then I looked at the number of unique activities that I did each day and averaged a little under 2 (which was the same regardless of whether it was the weekend or not). Plotting the trend line for this actually shows the opposite where earlier in the month I was going through multiple different activities earlier in the month rather than later where I doubled down on mostly one. This activity was Khan Academy quizzes going through the adult learner math subjects (which can be noted as well in the final bar chart in the notebook). This was somewhat intentional as I realized that focussing on one or two things would be easier than trying to spread thin and not do a very good job (if you look at my post history there are quite a few replies to posts that aren’t really adding anything to the conversation).
+
+A mentor of mine recently advised that I should push myself to be in more of a creator mode, and learn by creating rather than consuming. While I don’t just watch videos for Khan Academy (I usually only go to the videos if I am unsure of how to approach quiz questions), I will admit that there has been an element of anxiety when it comes to creating notebooks as it is easier with math because things have a straight answer (and hence it is easier to feel like I am progressing). 
+
+I also do want to focus more on learning in a bottom-up fashion, rather than push myself to hack together things. Not to diminish that type of learning (as I stated in my initial post that I wished to do a hybrid top-down and bottom-up approach). That said, the top-down side of things is covered by my day job to some extent, so when creating notebooks and such I wish to focus on coming at things from the ground up. In the short term, I think I am going to focus on notebooks that work on my visualization skills. Though on the longer scale this might mean things like doing from scratch implementations of popular architectures. Maybe overviews of blog posts that I read as forum posts. I was also strongly recommended by my advisor to be active with competitions regardless of where I rank, so I will attempt to do that too.
+
+## Key Takeaways / TL;DR
+
+I have been regular with updating my progress on my [GitHub](https://github.com/vishesh-sarinDXB/my-journey). I have been steadily increasing the amount of time I have spent on a daily basis to improve myself. This past month I have mostly been focussing on brushing up my math. This is show cased in a [dataset](https://www.kaggle.com/datasets/visheshsarin/4x-path-day-30-update) I uploaded to kaggle today and analyzed in a [notebook](https://www.kaggle.com/code/visheshsarin/4x-path-day-30-update-notebook) I also created today. I would love everyone's feedback on this dataset and notebook.
+
+While I don’t intend to stop this, I do need to be more creation focused. Will start with notebooks to improve my visualization skills, writing short overviews of interesting blog posts, and more low effort but iterative submissions to competitions.
