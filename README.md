@@ -266,4 +266,8 @@ spent 30 mins reading article above (not finished) around 7 am
 
 240 pm ka quizzes 30 mins
 
-310 kaggle notebook for day 30 update 30 mins
+310 pm kaggle notebook for day 30 update 30 mins
+
+415 pm kaggle notebook for day 30 update 30 mins (finished)
+
+https://www.kaggle.com/code/visheshsarin/4x-path-day-30-update-notebook/
