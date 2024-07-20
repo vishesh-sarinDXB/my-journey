@@ -280,6 +280,10 @@ spent 30 mins reading article above (not finished) around 7 am
 
 https://www.kaggle.com/discussions/general/521402
 
+725 pm 25 mins reading for visualization notebook
+
+matplotlib quickstart guide and pyplot tutorial
+
 ## 4X Path Day 30 Update (Feedback requested)
 
 I wrote a [post a month ago](https://www.kaggle.com/discussions/general/514564) about how I felt like I wasn’t where I wanted to be in terms of my technical skills and outlined how I was hoping to address the problem. It has been a month since and I thought I would write an update post.
