@@ -303,3 +303,7 @@ I also do want to focus more on learning in a bottom-up fashion, rather than pus
 I have been regular with updating my progress on my [GitHub](https://github.com/vishesh-sarinDXB/my-journey). I have been steadily increasing the amount of time I have spent on a daily basis to improve myself. This past month I have mostly been focussing on brushing up my math. This is show cased in a [dataset](https://www.kaggle.com/datasets/visheshsarin/4x-path-day-30-update) I uploaded to kaggle today and analyzed in a [notebook](https://www.kaggle.com/code/visheshsarin/4x-path-day-30-update-notebook) I also created today. I would love everyone's feedback on this dataset and notebook.
 
 While I don’t intend to stop this, I do need to be more creation focused. Will start with notebooks to improve my visualization skills, writing short overviews of interesting blog posts, and more low effort but iterative submissions to competitions.
+
+# Day 31
+
+1050 1h 45 min ka quizzes
