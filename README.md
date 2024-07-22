@@ -326,4 +326,4 @@ Not done anything yet, just adding stratascratch (leetcode for DS) and leetcode 
 
 Idea to gamify make app that gives me dailies and weeklies + exp points
 
-
+10 mins ka quizzes 2 pm
