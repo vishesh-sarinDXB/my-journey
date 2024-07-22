@@ -33,6 +33,10 @@ Any item from the following list that I will accomplish (with a minimum of 10 mi
 - Creating notebooks regarding certain aspects from said documentation
 - Creating notebooks exploring popular mathematical functions / algorithms / model architectures
 - Anything that anyone else suggests to be added to this list
+- Leetcode problems attempt
+- Leetcode problems explain as notebooks
+- Stratascratch problems attempt
+- Stratascratch problems explain as notebooks
 
 I will commit to the GitHub repo every day, and if I manage to finish off more than one line item, I will make a separate commit for each, also listing an approximation of how much time I spent on that. I will probably start with Khan Academy as it is definitely the low hanging fruit on this list.
 
@@ -315,3 +319,11 @@ While I don’t intend to stop this, I do need to be more creation focused. Will
 430 4h 30 min ka quizzes
 
 930 30 min ka quizzes
+
+# Day 32
+
+Not done anything yet, just adding stratascratch (leetcode for DS) and leetcode to list of dailies
+
+Idea to gamify make app that gives me dailies and weeklies + exp points
+
+
