@@ -37,6 +37,7 @@ Any item from the following list that I will accomplish (with a minimum of 10 mi
 - Leetcode problems explain as notebooks
 - Stratascratch problems attempt
 - Stratascratch problems explain as notebooks
+- camb ai challenge
 
 I will commit to the GitHub repo every day, and if I manage to finish off more than one line item, I will make a separate commit for each, also listing an approximation of how much time I spent on that. I will probably start with Khan Academy as it is definitely the low hanging fruit on this list.
 
@@ -327,3 +328,5 @@ Not done anything yet, just adding stratascratch (leetcode for DS) and leetcode 
 Idea to gamify make app that gives me dailies and weeklies + exp points
 
 10 mins ka quizzes 2 pm
+
+do camb ai challenge (set deadline internal) (adding to list)
