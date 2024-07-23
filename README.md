@@ -330,3 +330,7 @@ Idea to gamify make app that gives me dailies and weeklies + exp points
 10 mins ka quizzes 2 pm
 
 do camb ai challenge (set deadline internal) (adding to list)
+
+# Day 33
+
+835 am 1030 pm reading matplotlib docs
