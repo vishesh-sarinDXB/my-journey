@@ -334,3 +334,7 @@ do camb ai challenge (set deadline internal) (adding to list)
 # Day 33
 
 835 am 1030 pm reading matplotlib docs
+
+# Day 34
+
+245 PM 20 mins ka quizzes
