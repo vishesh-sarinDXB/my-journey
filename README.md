@@ -342,3 +342,9 @@ do camb ai challenge (set deadline internal) (adding to list)
 # Day 35
 
 1030 am 2 hrs starting work on kaggle notebook for matplotlib
+
+use this [notebook](https://www.kaggle.com/code/arslanali4343/display-data-visualization-cheat-sheet) as inspiration to finish my notebook on visualizations.
+
+start by getting as many pieces of code in to my notebook from the different tutorials and examples and make tons of plots with the breakdowns of what everything is doing with comments. Then make markdowns around as many of them as possible. Use random data if needed.
+
+Internal deadline to have a reasonably well done notebook set for this saturday (day 37)
