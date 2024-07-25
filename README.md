@@ -338,3 +338,7 @@ do camb ai challenge (set deadline internal) (adding to list)
 # Day 34
 
 245 PM 20 mins ka quizzes
+
+# Day 35
+
+1030 am 2 hrs starting work on kaggle notebook for matplotlib
