@@ -347,8 +347,12 @@ use this [notebook](https://www.kaggle.com/code/arslanali4343/display-data-visua
 
 start by getting as many pieces of code in to my notebook from the different tutorials and examples and make tons of plots with the breakdowns of what everything is doing with comments. Then make markdowns around as many of them as possible. Use random data if needed.
 
-Internal deadline to have a reasonably well done notebook set for this saturday (day 37)
+Internal deadline to have a reasonably well done notebook set for this saturday (day 37) visualization cheatsheet
 
 645 pm ka quizzes plus write up on polynomial factorization 2h25min
 
 internal target finish algebra basics tomorrow (day 36)
+
+# Day 36
+
+1005 ka quizzes 1h 10 mins, finished algebra basics (internal target achieved)
