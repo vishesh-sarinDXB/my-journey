@@ -356,3 +356,7 @@ internal target finish algebra basics tomorrow (day 36)
 # Day 36
 
 1005 ka quizzes 1h 10 mins, finished algebra basics (internal target achieved)
+
+# Day 37
+
+not done anything today, took a day with friends, commiting to 10 mins ka quizzes before bed. still out eith friends
