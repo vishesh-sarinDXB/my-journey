@@ -372,3 +372,5 @@ tomorrows target kaggle isic competition (essential to do at least baseline subm
 350 pm 50 mins isic kaggle notebook
 
 445 pm 1h isic kaggle notebook
+
+735 pm 45 mins isic kaggle
