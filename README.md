@@ -359,4 +359,14 @@ internal target finish algebra basics tomorrow (day 36)
 
 # Day 37
 
-not done anything today, took a day with friends, commiting to 10 mins ka quizzes before bed. still out eith friends
+not done anything today, took a day with friends, commiting to 10 mins ka quizzes before bed. still out eith friends. 
+
+The above was achieved
+
+internal target for today not met. putting target for visualization notebook (day 35) on hold for now. 
+
+tomorrows target kaggle isic competition (essential to do at least baseline submission)
+
+# Day 38
+
+350 pm 50 mins isic kaggle notebook
