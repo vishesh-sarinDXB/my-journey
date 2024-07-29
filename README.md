@@ -374,3 +374,7 @@ tomorrows target kaggle isic competition (essential to do at least baseline subm
 445 pm 1h isic kaggle notebook
 
 735 pm 45 mins isic kaggle
+
+# Day 39
+
+930 pm 10 mins ka quizzes
