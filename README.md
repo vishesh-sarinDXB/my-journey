@@ -378,3 +378,7 @@ tomorrows target kaggle isic competition (essential to do at least baseline subm
 # Day 39
 
 930 pm 10 mins ka quizzes
+
+# Day 40
+
+approx 20 mins quizzes spread out across the day, 1150 am
