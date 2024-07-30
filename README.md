@@ -382,3 +382,7 @@ tomorrows target kaggle isic competition (essential to do at least baseline subm
 # Day 40
 
 approx 20 mins quizzes spread out across the day, 1150 am
+
+day 41 internal target to atleast make a submission for isic competition 
+
+start early in day, do 20 mins cardio, and go straight to office, work from there, also make habit of staying back, leave with anwar, walk to his car and have him drop u back at the top
