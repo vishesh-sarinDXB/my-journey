@@ -392,3 +392,9 @@ start early in day, do 20 mins cardio, and go straight to office, work from ther
 approx 20 mins started around 1230 pm
 
 internal target pushed, pretty big accident today
+
+# Day 42
+
+15 mins ka quizzes 907 am 
+
+gunna take it easy through till next week (day 45 will be last chill day)
