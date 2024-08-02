@@ -398,3 +398,7 @@ internal target pushed, pretty big accident today
 15 mins ka quizzes 907 am 
 
 gunna take it easy through till next week (day 45 will be last chill day)
+
+# Day 43
+
+17 mins ka quizzes 715 pm
