@@ -406,3 +406,7 @@ gunna take it easy through till next week (day 45 will be last chill day)
 # Day 44
 
 10 mins ka quizzes 1143 pm
+
+# Day 45
+
+14 mins ka quizzes 840 am
