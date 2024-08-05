@@ -410,3 +410,7 @@ gunna take it easy through till next week (day 45 will be last chill day)
 # Day 45
 
 14 mins ka quizzes 840 am
+
+# Day 46
+
+730 pm 50 mins kaggle isic competition (finally made baseline submission)
