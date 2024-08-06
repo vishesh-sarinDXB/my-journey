@@ -414,3 +414,7 @@ gunna take it easy through till next week (day 45 will be last chill day)
 # Day 46
 
 730 pm 50 mins kaggle isic competition (finally made baseline submission)
+
+# Day 47
+
+8 pm 1h35mins kaggle isic comp made commit with smotenc and imputation performance was worse
