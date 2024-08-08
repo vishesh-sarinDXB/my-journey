@@ -422,3 +422,7 @@ gunna take it easy through till next week (day 45 will be last chill day)
 # Day 48
 
 730 pm 20 mins kaggle isic comp, xgb is overfitting slightly as training with all data leads to lower score and and training with less leads to small increase, maybe try random forests
+
+# Day 49
+
+330 pm 40 min mixture of kaggle isic submission (just copied top tabular only nb) and reading for neurips comp
