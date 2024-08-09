@@ -428,3 +428,7 @@ gunna take it easy through till next week (day 45 will be last chill day)
 330 pm 40 min mixture of kaggle isic submission (just copied top tabular only nb) and reading for neurips comp
 
 410 pm ka quizzes 25 mins
+
+# Day 50
+
+20 mins 330 pm ka quizzes
