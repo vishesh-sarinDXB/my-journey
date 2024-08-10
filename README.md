@@ -432,3 +432,7 @@ gunna take it easy through till next week (day 45 will be last chill day)
 # Day 50
 
 20 mins 330 pm ka quizzes
+
+# Day 51
+
+3blue1brown video on gpt 30 mins 410 pm
