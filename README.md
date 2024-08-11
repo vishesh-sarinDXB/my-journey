@@ -440,3 +440,5 @@ gunna take it easy through till next week (day 45 will be last chill day)
 # Day 52
 
 3 PM start stratascratch 1 hr
+
+430 pm start staratascratch 20 mins
