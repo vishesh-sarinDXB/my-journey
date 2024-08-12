@@ -442,3 +442,7 @@ gunna take it easy through till next week (day 45 will be last chill day)
 3 PM start stratascratch 1 hr
 
 430 pm start staratascratch 20 mins
+
+# Day 53
+
+735pm 20 mins kaggle neurips
