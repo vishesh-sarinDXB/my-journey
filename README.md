@@ -448,3 +448,7 @@ gunna take it easy through till next week (day 45 will be last chill day)
 735pm 20 mins kaggle neurips
 
 815pm 2h15mins ka quizzes
+
+# Day 54
+
+ka quizzes 20 mins around 1130 am
