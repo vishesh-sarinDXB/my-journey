@@ -456,3 +456,7 @@ ka quizzes 20 mins around 1130 am
 # Day 55
 
 reading on gradient boosting 20 mins 4 pm
+
+# Day 56
+
+10 mins ka quizzes 430 pm
