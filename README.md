@@ -460,3 +460,7 @@ reading on gradient boosting 20 mins 4 pm
 # Day 56
 
 10 mins ka quizzes 430 pm
+
+# Day 57
+
+10 mins ka quizzes aroun 2 pm
