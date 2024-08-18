@@ -480,3 +480,5 @@ reading on gradient boosting 20 mins 4 pm
 # Day 59
 
 70 mins ka quizzes 1 pm
+
+20 mins ka quizzes 220 pm
