@@ -488,3 +488,7 @@ reading on gradient boosting 20 mins 4 pm
 # Day 60 
 
 90 mins ka quizzes 315 pm
+
+90 mins ka wuizzes 730 pm
+
+commitment to finish algebra 1 tomorrow 
