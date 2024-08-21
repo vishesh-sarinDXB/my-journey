@@ -492,3 +492,7 @@ reading on gradient boosting 20 mins 4 pm
 90 mins ka wuizzes 730 pm
 
 commitment to finish algebra 1 tomorrow 
+
+# Day 61 
+
+10 mins blog post reading aroun 2 pm
