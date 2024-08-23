@@ -496,3 +496,7 @@ commitment to finish algebra 1 tomorrow
 # Day 61 
 
 10 mins blog post reading aroun 2 pm
+
+# Day 63 (Day 62 skipped)
+
+1230 pm start ka quizzes 1 hr
