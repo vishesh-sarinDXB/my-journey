@@ -512,3 +512,5 @@ commitment to finish algebra 1 tomorrow
 # Day 64
 
 30 mins reading sebastian raschka llm training pipelines 830 am
+
+1030 am start ka quizzes 2hr10 mins
