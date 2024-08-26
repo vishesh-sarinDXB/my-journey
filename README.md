@@ -522,3 +522,7 @@ commitment to finish algebra 1 tomorrow
 1hr 5 mins ka quizzes 145 pm
 
 1 hr 3 pm ka quizzes
+
+# Day 66
+
+1 hr ka quizzes 2pm
