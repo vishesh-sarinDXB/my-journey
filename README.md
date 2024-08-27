@@ -532,3 +532,5 @@ commitment to finish algebra 1 tomorrow
 # Day 67
 
 35 mins ka quizzes 11 am
+
+2h5m ka quizzes 7 pm
