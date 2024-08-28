@@ -534,3 +534,7 @@ commitment to finish algebra 1 tomorrow
 35 mins ka quizzes 11 am
 
 2h5m ka quizzes 7 pm
+
+# Day 68
+
+lot of time reading chronos paper (about 4ish hours) first bout at 11 am then at 2 pm
