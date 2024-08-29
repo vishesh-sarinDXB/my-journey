@@ -538,3 +538,7 @@ commitment to finish algebra 1 tomorrow
 # Day 68
 
 lot of time reading chronos paper (about 4ish hours) first bout at 11 am then at 2 pm
+
+# Day 69
+
+330 pm read chronos paper 1hr
