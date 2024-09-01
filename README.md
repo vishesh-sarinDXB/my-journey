@@ -556,3 +556,7 @@ lot of time reading chronos paper (about 4ish hours) first bout at 11 am then at
 35 mins ka quizzes 210 pm
 
 10 mins ka quizzes 4 pm
+
+# Day 72
+
+1 hr ka quizzes 1220 pm
