@@ -570,3 +570,7 @@ lot of time reading chronos paper (about 4ish hours) first bout at 11 am then at
 1 h ka quizzes 805 pm
 
 10 mins ka quizzes 1030pm
+
+# Day 75
+
+taking a break for a few days space marine 2 (sept 4 Wednesday today)
