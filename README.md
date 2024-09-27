@@ -664,3 +664,5 @@ taking a break for a few days space marine 2 (sept 4 Wednesday today)
 # day 98
 
 10 m ka quizzes 1110 am
+
+30 m ka quizzes 2 pm
