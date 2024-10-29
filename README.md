@@ -746,3 +746,7 @@ took saturday off
 # day 116
 
 2 h work forecasting experiments 7pm
+
+# day 129
+
+2h ka quizzes 730 pm
