@@ -9,3 +9,4 @@ ka 630 pm 15 m
 ka 1115 am 1h 45 m
 ka 115 pm 30 m
 ka 315 pm 30 m
+reading ga 415 pm 1h 15m
