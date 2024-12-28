@@ -10,3 +10,6 @@ ka 1115 am 1h 45 m
 ka 115 pm 30 m
 ka 315 pm 30 m
 reading ga 415 pm 1h 15m
+
+# day 3 28th dec
+reading ga 1145 am 15 m
