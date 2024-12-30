@@ -16,3 +16,6 @@ reading ga 1145 am 15 m
 
 # day 4 29th dec
 ka 730 pm 10 m
+
+# day 5 30th dec
+reading ga 735 pm 10 m
