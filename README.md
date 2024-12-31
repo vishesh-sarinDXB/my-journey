@@ -19,3 +19,6 @@ ka 730 pm 10 m
 
 # day 5 30th dec
 reading ga 735 pm 10 m
+
+# day 6 31st dec
+reading ga 7 pm 5 m
