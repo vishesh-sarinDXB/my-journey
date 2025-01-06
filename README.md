@@ -5,6 +5,9 @@ Another small break over new years
 11am ka 1h
 
 1245pm ka 5m
+
 335pm ka 2h10m
+
 640pm ka 10m
+
 710pm reading ga 20m
