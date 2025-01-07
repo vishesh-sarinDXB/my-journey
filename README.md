@@ -11,3 +11,7 @@ Another small break over new years
 640pm ka 10m
 
 710pm reading ga 20m
+
+# day 2 jan 7
+
+130pm ka 1h
