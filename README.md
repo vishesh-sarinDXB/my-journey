@@ -18,4 +18,4 @@ Another small break over new years
 
 # day 3 jan 8
 
-10m reading ga
+7pm reading ga 10m
