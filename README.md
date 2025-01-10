@@ -22,4 +22,8 @@ Another small break over new years
 
 # day 4 jan 9
 
-7 pm ka 1h
+7pm ka 1h
+
+# day 5 jan 10
+
+1245pm ka 25m
