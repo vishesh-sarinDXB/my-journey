@@ -27,3 +27,5 @@ Another small break over new years
 # day 5 jan 10
 
 1245pm ka 25m
+
+325pm ka 1h
