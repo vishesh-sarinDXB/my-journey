@@ -35,3 +35,7 @@ Another small break over new years
 # day 6 jan 11
 
 725pm reading ga 5m
+
+# day 7 jan 12
+
+125pm reading ga 10m
