@@ -39,3 +39,7 @@ Another small break over new years
 # day 7 jan 12
 
 125pm reading ga 10m
+
+# day 8 jan 13
+
+830am ka 15m
